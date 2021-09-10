@@ -1,0 +1,58 @@
+table{border-collapse: separate;}
+
+td{padding: 10;}
+
+tr{
+	background-color: #d3ffe2;
+
+}
+
+#body{
+	font-family: verdana;
+	font-size:100%;
+}
+
+.tit{
+	color:#2c8962;
+	font-size:120%;
+	font-weight: bold;
+}
+
+.ref{
+	font-style: italic;
+	text-align: right;
+}
+
+.boton{
+	border: solid;
+	border-color: #2c8962;
+	padding: 0.5em;
+	background-color: #d3ffe2;
+	font-weight: bold;
+	border-radius: 5px;
+	border-width: thin;
+	width: 100px;
+	height: 50px;
+	font-size: 19px; 
+	color: #2c8962;
+	cursor: pointer;
+}
+
+a{
+	text-decoration: none;
+	color: #2c8962;
+}
+#caja{
+	width: 200px;
+	height: 30px;
+} 
+
+input, select, textarea{
+	background-color: #edf8e8;
+}
+
+textarea:focus, input:focus, input[type]:focus, select:focus{
+    border-color: #2c8962;
+    box-shadow: 0 1px 1px #8dffd9 inset, 0 0 8px #2fffae;
+    outline: 0 none;
+}

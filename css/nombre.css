@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "Nuvel";
+  src: url("Nuvel.ttf");
+}
+
+#nombre{
+	margin-left: auto;
+	margin-right: auto;
+	
+	font-family: "Nuvel";
+  	src: url("Nuvel.ttf");
+}
+
+.colo1 {
+	color:#2dcd90;
+	font-size: 65px;
+	
+}
+.colo2{
+	color: #2c8962;
+	font-size: 65px;
+}
+img{
+	margin-top: -1em;
+	margin-left: 1em;
+	height:70;
+	width:80;
+	text-align:middle;
+}

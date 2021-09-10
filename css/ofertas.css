@@ -1,0 +1,44 @@
+table{border-collapse: separate;}
+
+td{padding: 10;}
+
+#body{
+	font-family: verdana;
+	font-size:100%;
+	text-align: center;
+}
+
+#nombre{font-style: italic;}
+
+#empresa{font-weight: bold;
+font-size:110%;}
+
+#campo1{
+	text-align: right;
+	font-style: italic;
+}
+
+#tit{
+	color:#2c8962;
+	font-size:120%;
+	background-color: #d3ffe2;
+	font-weight: bold;
+}
+
+a{
+	text-decoration: none;
+	color: #2c8962;
+}
+
+.boton{
+	border: solid;
+	border-color: #2c8962;
+	padding: 0.5em;
+	background-color: #d3ffe2;
+	font-weight: bold;
+	border-radius: 5px;
+	width: 250px;
+	height: 50px;
+	font-size: 19px; 
+	cursor: pointer;
+}

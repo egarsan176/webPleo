@@ -1,0 +1,27 @@
+table{
+border-collapse: separate;
+}
+
+td{
+	padding: 10;
+}
+
+
+.ofertas{
+	text-align: center;
+	border-color: none;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 30px;
+	background-color: #d3ffe2;
+	color: #2c8962;
+}
+
+#filas{
+	font-size: 19px;
+}
+
+a{
+	text-decoration: none;
+	color: #2c8962;
+}

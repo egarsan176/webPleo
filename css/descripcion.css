@@ -1,0 +1,11 @@
+#body{
+	font-family: verdana;
+	color:#2c8962;
+	font-size:100%;
+	background-color: #d3ffe2;
+	text-align: center;
+}
+span{
+	color:#2c8962;
+	font-weight: bold;
+	font-style: italic;
